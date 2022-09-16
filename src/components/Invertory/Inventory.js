@@ -1,9 +1,10 @@
 import React from 'react';
 
 const Inventory = () => {
+    
     return (
         <div>
-            This is inventory
+            <p>This is inventory</p>
         </div>
     );
 };
